@@ -35,3 +35,6 @@ Related to the publication are the following repositories:
 - https://github.com/Transparency-Information-Language/python-tilt
 - https://github.com/Transparency-Information-Language/chrome-tilt
 - https://github.com/Transparency-Information-Language/transparency-analysis-platform
+
+## Contact
+If you have questions, open an issue here on Github or contact me via my [institutional website](https://www.ise.tu-berlin.de/menue/team/elias_gruenewald/parameter/en/).
