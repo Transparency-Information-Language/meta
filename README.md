@@ -19,9 +19,9 @@ Elias Grünewald and Frank Pallas. 2021. TILT: A GDPR-Aligned Transparency Infor
     author = {Elias Grünewald and Frank Pallas},
     year = {2021},
     series = {FAccT '21},
-    doi = {10.1145/3442188.3445925}
-    isbn = {978-1-4503-8309-7/21/03}
-    url={https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2020/FAccT2021_preprint_2012.10431.pdf},
+    doi = {10.1145/3442188.3445925},
+    isbn = {978-1-4503-8309-7/21/03},
+    url={https://www.ise.tu-berlin.de/fileadmin/fg308/publications/2020/FAccT2021_preprint_2012.10431.pdf}
 }
 ```
 
