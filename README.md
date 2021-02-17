@@ -1,6 +1,6 @@
 # TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering
 
-[overview.png]
+![](overview.png)
 
 We present TILT, a transparency information language and toolkit explicitly designed to represent and process transparency information in line with the requirements of the **GDPR** and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do.
 
