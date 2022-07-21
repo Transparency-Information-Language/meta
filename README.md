@@ -27,6 +27,11 @@ Elias Grünewald and Frank Pallas. 2021. TILT: A GDPR-Aligned Transparency Infor
 }
 ```
 
+## Presentation
+
+See here: https://www.youtube.com/watch?v=7CFL2dWS5Kk
+
+
 ## Source Code
 
 Related to the publication are the following repositories:
