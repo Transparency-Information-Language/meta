@@ -1,0 +1,13 @@
+## Site metadata ##
+
+title: TILT
+description: Transparency Information Language and Toolkit
+
+### Built settings ###
+
+url: "https://transparency-information-language.github.io"
+baseurl: "/meta/"
+
+github_username: Transparency-Information-Language/meta
+
+theme: cayman
