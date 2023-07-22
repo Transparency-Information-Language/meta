@@ -98,4 +98,4 @@ For further information see: [CODE2 Repository](https://pub.h-brs.de/frontdoor/i
 # Contact Info
 If you have questions, open an issue here on Github or contact Elias Grünewald via his [institutional website](https://tu.berlin/ise/eg) or [LinkedIn](https://www.linkedin.com/in/eliasgruenewald/).
 
-[<img src="TU-Berlin-Logo.png" alt="" width="" height="50">](https://www.tu.berlin) [<img src="noun-toucan.png" alt="" width="" height="50">](https://www.tu.berlin/ise/projekte/toucan) 
+[<img src="TU-Berlin-Logo.svg" alt="" width="" height="50">](https://www.tu.berlin) [<img src="noun-toucan.png" alt="" width="" height="50">](https://www.tu.berlin/ise/projekte/toucan)  
